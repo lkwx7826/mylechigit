@@ -20,6 +20,10 @@ public class firstClass {
         int i = 0;
         i +=10;
         System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
     }
 
 }
